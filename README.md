@@ -91,17 +91,10 @@ exodetect/
 ## 👨‍💻 Author  
 
 **Fasih Ur Rehman**  
-BSCS (8th Semester) — Khwaja Fareed University of Engineering & Information Technology (KICSIT), Institute of Space Technology (IST)  
+BSCS (8th Semester) — (KICSIT), Institute of Space Technology (IST)  
 
 📞 03467042773  
-
----
-
-## 🪪 License  
-
-This project is licensed under the **MIT License**.
-
----
+-
 
 ## 🙏 Acknowledgments  
 
